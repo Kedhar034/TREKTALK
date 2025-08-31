@@ -1,0 +1,7 @@
+express --> for web frmaework
+mongoose --> mongoDb orm
+bcryptjs --> for hashing the passwords
+jsonwebtoken --> jwt generation
+dotenv -->Env vars.
+cors --> Allow frontend calls ( for cross body connection)
+nodemon --> auto restart services
